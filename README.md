@@ -1,9 +1,9 @@
-# :ocean::rainbow: **SUPLASHU** :rainbow::ocean:
+## :ocean::rainbow: **SUPLASHU** :rainbow::ocean:
 
 ### DESCRIPTION:
 > A Light weight Highly customizable Splash Screen Library that use canvas for android devices.
 
-### Note :lower_left_fountain_pen:
+### Note :memo:
 >By Using This Library I assumed that you are:
 > - ALREADY KNOW THE BASIC UP TO ADVANCED USE OF ANDROID CANVAS
 > - IMAGINATIVE
